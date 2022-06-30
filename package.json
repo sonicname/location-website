@@ -10,5 +10,8 @@
   },
   "scripts": {
     "dev": "parcel index.html"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.3.0"
   }
 }
