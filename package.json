@@ -6,6 +6,7 @@
   "author": "SoSmoothy <58429050+sonicname@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/google.maps": "^3.49.2",
     "parcel": "^2.0.0"
   },
   "scripts": {
