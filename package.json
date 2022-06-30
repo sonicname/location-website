@@ -1,0 +1,14 @@
+{
+  "name": "location-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sonicname/location-website.git",
+  "author": "SoSmoothy <58429050+sonicname@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "scripts": {
+    "dev": "parcel index.html"
+  }
+}
